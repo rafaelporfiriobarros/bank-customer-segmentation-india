@@ -32,3 +32,7 @@ clientes.*
 - __TransactionDate__ = Data da Transação
 - __TransactionTime__ = Hora da Transação
 - __TransactionAmount (INR)__ = Valor da Transação em INR - rupia indiana
+
+### Dashboard POWER BI
+
+[Dashboard](https://pages.github.com/](https://app.powerbi.com/view?r=eyJrIjoiMWJlYWViNmEtMjc4MC00YzZmLWIyNWYtMTdiMzI4NjM2ZDNhIiwidCI6IjZjY2E5MGExLTkzYTAtNDNlYS05YTA0LTZjZDU3MmFiZjlmMCJ9)
