@@ -35,4 +35,4 @@ clientes.*
 
 ### Dashboard POWER BI
 
-[Dashboard](https://pages.github.com/](https://app.powerbi.com/view?r=eyJrIjoiMWJlYWViNmEtMjc4MC00YzZmLWIyNWYtMTdiMzI4NjM2ZDNhIiwidCI6IjZjY2E5MGExLTkzYTAtNDNlYS05YTA0LTZjZDU3MmFiZjlmMCJ9)
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWJlYWViNmEtMjc4MC00YzZmLWIyNWYtMTdiMzI4NjM2ZDNhIiwidCI6IjZjY2E5MGExLTkzYTAtNDNlYS05YTA0LTZjZDU3MmFiZjlmMCJ9)
