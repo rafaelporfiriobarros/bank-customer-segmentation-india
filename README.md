@@ -34,5 +34,6 @@ clientes.*
 - __TransactionAmount (INR)__ = Valor da Transação em INR - rupia indiana
 
 ### Dashboard POWER BI
+<img src="/images/powerbi.png">
 
-[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWJlYWViNmEtMjc4MC00YzZmLWIyNWYtMTdiMzI4NjM2ZDNhIiwidCI6IjZjY2E5MGExLTkzYTAtNDNlYS05YTA0LTZjZDU3MmFiZjlmMCJ9)
+[**Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMWJlYWViNmEtMjc4MC00YzZmLWIyNWYtMTdiMzI4NjM2ZDNhIiwidCI6IjZjY2E5MGExLTkzYTAtNDNlYS05YTA0LTZjZDU3MmFiZjlmMCJ9)
