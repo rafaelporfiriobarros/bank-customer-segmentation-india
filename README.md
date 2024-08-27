@@ -37,6 +37,6 @@ clientes.*
 [**Playlist**](https://youtube.com/playlist?list=PL8FkLNPUsnqh6zspdcv849vl2LqSrr9VC&si=vOFXT38xQFbhNJds)
 
 ## Dashboard POWER BI
-<img src="/images/powerbi.png">
+[<img src="/images/powerbi.png">](https://app.powerbi.com/view?r=eyJrIjoiMWJlYWViNmEtMjc4MC00YzZmLWIyNWYtMTdiMzI4NjM2ZDNhIiwidCI6IjZjY2E5MGExLTkzYTAtNDNlYS05YTA0LTZjZDU3MmFiZjlmMCJ9)
 
 [**Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMWJlYWViNmEtMjc4MC00YzZmLWIyNWYtMTdiMzI4NjM2ZDNhIiwidCI6IjZjY2E5MGExLTkzYTAtNDNlYS05YTA0LTZjZDU3MmFiZjlmMCJ9)
