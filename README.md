@@ -37,6 +37,9 @@ clientes.*
 [**Playlist**](https://youtube.com/playlist?list=PL8FkLNPUsnqh6zspdcv849vl2LqSrr9VC&si=vOFXT38xQFbhNJds)
 
 ## Dashboard POWER BI
+- Instale a fonte Montserrat para a visualização correta do dash:
+- [Download fonte Montserrat:](https://fonts.google.com/specimen/Montserrat)
+
 [<img src="/images/powerbi.png">](https://app.powerbi.com/view?r=eyJrIjoiMWJlYWViNmEtMjc4MC00YzZmLWIyNWYtMTdiMzI4NjM2ZDNhIiwidCI6IjZjY2E5MGExLTkzYTAtNDNlYS05YTA0LTZjZDU3MmFiZjlmMCJ9)
 
 [**Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMWJlYWViNmEtMjc4MC00YzZmLWIyNWYtMTdiMzI4NjM2ZDNhIiwidCI6IjZjY2E5MGExLTkzYTAtNDNlYS05YTA0LTZjZDU3MmFiZjlmMCJ9)
